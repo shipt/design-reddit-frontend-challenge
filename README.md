@@ -3,6 +3,8 @@ Growth Whiteboarding Challenge: Design Reddit
 
 The scope of this challenge is to design the architectural scaffolding of the Reddit homepage. This is meant to be a whiteboarding question.
 
+https://www.reddit.com/
+
 Assume that we have an API that allows for retreiving a list of 100 Reddit posts with the following metadata...
 
 ```
@@ -27,8 +29,7 @@ Though we use React at Shipt, can talk about this page in the context of any fra
 4) How you would allow for front page sorting by "hot", "new", "upvotes" and "country"
 5) How you would allow for an automatically-updating homepage based on real-time data (i.e. the most upvotes make a post rise to the top)
 
-Remember: this is a discussion and there iis no one right answer. 
+Remember: this is a discussion and there is no one right answer. 
 
 Best of luck!
 
-![Screenshot](https://cl.ly/a91af40f47c6)
